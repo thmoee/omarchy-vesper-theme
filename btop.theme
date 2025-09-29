@@ -1,0 +1,10 @@
+theme[main_bg]="#101010"
+theme[main_fg]="#FFFFFF"
+
+theme[graph_text]="#FFC799"
+theme[hi_fg]="#FFC799"
+
+theme[cpu_box]="#e29eca"
+theme[mem_box]="#90b99f"
+theme[net_box]="#aca1cf"
+theme[proc_box]="#e6b99d"
