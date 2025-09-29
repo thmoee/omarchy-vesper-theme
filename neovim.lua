@@ -1,10 +1,11 @@
 return {
   {
-    "datsfilipe/vesper.nvim",
-    lazy = false,
-    priority = 1000,
-    config = function()
-      vim.cmd.colorscheme("vesper")
-    end,
+    "datsfilipe/vesper.nvim"
+  },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "vesper"
+    },
   },
 }
